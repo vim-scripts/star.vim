@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4139
+
+Syntax highlighting for Self-defining Text Archive and Retrieval (STAR) format [1]. macromolecular Crystallographic Information File (mmCIF) [2] files are in STAR format.
+
+[1] http://mmcif.rcsb.org/mmcif-early/background/index.html
+[2] http://mmcif.rcsb.org/
